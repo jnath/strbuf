@@ -1,5 +1,5 @@
 {
-  "name": "buftostr",
+  "name": "strbuf",
   "version": "0.0.0",
   "description": "convert buffer to is own charset",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jnath/bufToStr.git"
+    "url": "https://github.com/jnath/strbuf.git"
   },
   "keywords": [
     "buffer",
@@ -18,9 +18,9 @@
   "author": "jonathan faivre",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jnath/bufToStr/issues"
+    "url": "https://github.com/jnath/strbuf/issues"
   },
-  "homepage": "https://github.com/jnath/bufToStr",
+  "homepage": "https://github.com/jnath/strbuf",
   "dependencies": {
     "chardet": "0.0.8",
     "iconv-lite": "^0.4.4"
