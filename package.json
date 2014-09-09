@@ -1,5 +1,5 @@
 {
-  "name": "bufToStr",
+  "name": "buftostr",
   "version": "0.0.0",
   "description": "convert buffer to is own charset",
   "main": "index.js",
