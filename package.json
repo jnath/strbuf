@@ -1,0 +1,28 @@
+{
+  "name": "bufToStr",
+  "version": "0.0.0",
+  "description": "convert buffer to is own charset",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jnath/bufToStr.git"
+  },
+  "keywords": [
+    "buffer",
+    "iconv-lite",
+    "chardet"
+  ],
+  "author": "jonathan faivre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnath/bufToStr/issues"
+  },
+  "homepage": "https://github.com/jnath/bufToStr",
+  "dependencies": {
+    "chardet": "0.0.8",
+    "iconv-lite": "^0.4.4"
+  }
+}
