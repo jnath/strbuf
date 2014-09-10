@@ -1,7 +1,7 @@
 strbuf
 ========
 
-convert a buffet with is own charset
+convert a buffer with is own charset
 
 ````
 var strbuf = require('strbuf');
